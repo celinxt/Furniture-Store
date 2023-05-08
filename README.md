@@ -25,7 +25,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-
+<p> A simple furniture landing page made with HTML and CSS. </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -56,7 +56,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 E-mail - rudeusmodev@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link - https://celinxt.github.io/Furniture-Store/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
