@@ -58,7 +58,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 E-mail - rudeusmodev@gmail.com
 
-Project Link - <a href="https://celinxt.github.io/Furniture-Store/" target="_blank">https://celinxt.github.io/Furniture-Store/</a>
+Project Link - https://celinxt.github.io/Furniture-Store/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
