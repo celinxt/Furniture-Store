@@ -28,6 +28,8 @@
 <p> A simple furniture landing page made with HTML and CSS. </p>
 
 <p align="center"><img src = "assets/project.png" alt="Project image" height="400"></p>
+<br><br>
+Project Link - https://celinxt.github.io/Furniture-Store/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
