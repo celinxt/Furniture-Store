@@ -27,7 +27,7 @@
 
 <p> A simple furniture landing page made with HTML and CSS. </p>
 
-<p align="center"><img src = "assets/project.png" alt="Project image" height="600"></p>
+<p align="center"><img src = "assets/project.png" alt="Project image" height="400"></p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
